@@ -7,7 +7,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeBricks",
-    "uniqueEntryId": "Rvkrg9tcubTMakcBS"
+    "uniqueEntryId": "Rvkrg9tcubTMakcBS",
+    "localization": {
+      "en_US": "brick bridge",
+      "en_GB": "brick bridge",
+      "de_DE": "Backsteinbrücke",
+      "es_ES": "puente de ladrillo",
+      "es_US": "puente de ladrillo",
+      "fr_FR": "pont en brique",
+      "fr_CA": "pont en brique",
+      "it_IT": "ponte di mattoni",
+      "nl_NL": "bakstenen brug",
+      "zh_CN": "砖桥",
+      "zh_TW": "磚塊橋",
+      "ja_JP": "レンガのはし",
+      "ko_KR": "벽돌 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -17,7 +32,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeIron",
-    "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ"
+    "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ",
+    "localization": {
+      "en_US": "iron bridge",
+      "en_GB": "iron bridge",
+      "de_DE": "Eisenbrücke",
+      "es_ES": "puente de hierro",
+      "es_US": "puente de hierro",
+      "fr_FR": "pont en fer",
+      "fr_CA": "pont en fer",
+      "it_IT": "ponte di ferro",
+      "nl_NL": "ijzeren brug",
+      "zh_CN": "铁桥",
+      "zh_TW": "鐵橋",
+      "ja_JP": "てつのはし",
+      "ko_KR": "철제 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -27,7 +57,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeLog",
-    "uniqueEntryId": "Px55sTfjKSbbMtjAK"
+    "uniqueEntryId": "Px55sTfjKSbbMtjAK",
+    "localization": {
+      "en_US": "log bridge",
+      "en_GB": "log bridge",
+      "de_DE": "Baumstammbrücke",
+      "es_ES": "puente de troncos",
+      "es_US": "puente de troncos",
+      "fr_FR": "pont en rondins",
+      "fr_CA": "pont en rondins",
+      "it_IT": "ponte di tronchi",
+      "nl_NL": "boomstammenbrug",
+      "zh_CN": "圆木桥",
+      "zh_TW": "圓木橋",
+      "ja_JP": "まるたのはし",
+      "ko_KR": "통나무 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -37,7 +82,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeRed",
-    "uniqueEntryId": "jTziEHXkeYaugKDQQ"
+    "uniqueEntryId": "jTziEHXkeYaugKDQQ",
+    "localization": {
+      "en_US": "red zen bridge",
+      "en_GB": "red zen bridge",
+      "de_DE": "Rot-Japan-Brücke",
+      "es_ES": "puente de madera rojo",
+      "es_US": "puente de madera rojo",
+      "fr_FR": "pont zen rouge",
+      "fr_CA": "pont zen rouge",
+      "it_IT": "ponte giapponese rosso",
+      "nl_NL": "rode zenbrug",
+      "zh_CN": "红色和风桥",
+      "zh_TW": "紅色和風橋",
+      "ja_JP": "あかいわふうのはし",
+      "ko_KR": "빨간 동양풍 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -47,7 +107,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeStone",
-    "uniqueEntryId": "JmrwC2tRRCCgbZnrp"
+    "uniqueEntryId": "JmrwC2tRRCCgbZnrp",
+    "localization": {
+      "en_US": "stone bridge",
+      "en_GB": "stone bridge",
+      "de_DE": "Steinbrücke",
+      "es_ES": "puente de piedra",
+      "es_US": "puente de piedra",
+      "fr_FR": "pont de pierre",
+      "fr_CA": "pont de pierre",
+      "it_IT": "ponte di pietra",
+      "nl_NL": "stenen brug",
+      "zh_CN": "石桥",
+      "zh_TW": "石橋",
+      "ja_JP": "いしのはし",
+      "ko_KR": "돌 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -57,7 +132,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeSuspension",
-    "uniqueEntryId": "q52JebMTHDqHJKBba"
+    "uniqueEntryId": "q52JebMTHDqHJKBba",
+    "localization": {
+      "en_US": "suspension bridge",
+      "en_GB": "suspension bridge",
+      "de_DE": "Hängebrücke",
+      "es_ES": "puente colgante",
+      "es_US": "puente colgante",
+      "fr_FR": "pont suspendu",
+      "fr_CA": "pont suspendu",
+      "it_IT": "ponte sospeso",
+      "nl_NL": "hangbrug",
+      "zh_CN": "吊桥",
+      "zh_TW": "吊橋",
+      "ja_JP": "つりばし",
+      "ko_KR": "출렁다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -67,7 +157,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeWood",
-    "uniqueEntryId": "7oZ7FMrJEpBLZzsmw"
+    "uniqueEntryId": "7oZ7FMrJEpBLZzsmw",
+    "localization": {
+      "en_US": "wooden bridge",
+      "en_GB": "wooden bridge",
+      "de_DE": "Holzbrücke",
+      "es_ES": "puente de tablones",
+      "es_US": "puente de tablones",
+      "fr_FR": "pont en bois",
+      "fr_CA": "pont en bois",
+      "it_IT": "ponte di legno",
+      "nl_NL": "houten brug",
+      "zh_CN": "木桥",
+      "zh_TW": "木橋",
+      "ja_JP": "もくせいのはし",
+      "ko_KR": "목제 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -77,7 +182,22 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeJapanese",
-    "uniqueEntryId": "TbKbHzJM8j8ezmAEF"
+    "uniqueEntryId": "TbKbHzJM8j8ezmAEF",
+    "localization": {
+      "en_US": "zen bridge",
+      "en_GB": "zen bridge",
+      "de_DE": "Japan-Brücke",
+      "es_ES": "puente de madera",
+      "es_US": "puente de madera",
+      "fr_FR": "pont zen",
+      "fr_CA": "pont zen",
+      "it_IT": "ponte giapponese",
+      "nl_NL": "zenbrug",
+      "zh_CN": "和风桥",
+      "zh_TW": "和風橋",
+      "ja_JP": "わふうのはし",
+      "ko_KR": "동양풍 다리"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1647,7 +1767,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeIronStairBlue",
-    "uniqueEntryId": "wEC52Lc5cf8TcamMB"
+    "uniqueEntryId": "wEC52Lc5cf8TcamMB",
+    "localization": {
+      "en_US": "blue steel staircase",
+      "en_GB": "blue steel staircase",
+      "de_DE": "Blau-Stahltreppe",
+      "es_ES": "escalera de acero azul",
+      "es_US": "escalera de acero azul",
+      "fr_FR": "escalier en acier bleu",
+      "fr_CA": "escalier en acier bleu",
+      "it_IT": "scala di acciaio blu",
+      "nl_NL": "blauwe stalen trap",
+      "zh_CN": "蓝色钢筋台阶",
+      "zh_TW": "藍色鋼筋樓梯",
+      "ja_JP": "あおいてっこつかいだん",
+      "ko_KR": "파란 철골 계단"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1657,7 +1792,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWoodBlue",
-    "uniqueEntryId": "gHnYrhHS9A7MrPdpr"
+    "uniqueEntryId": "gHnYrhHS9A7MrPdpr",
+    "localization": {
+      "en_US": "blue-plank ramp",
+      "en_GB": "blue-plank ramp",
+      "de_DE": "Blau-Bretterrampe",
+      "es_ES": "rampa de tablas azules",
+      "es_US": "rampa de tablas azules",
+      "fr_FR": "pente planches bleues",
+      "fr_CA": "pente planches bleues",
+      "it_IT": "rampa di assi blu",
+      "nl_NL": "blauwe houten helling",
+      "zh_CN": "蓝色木板斜坡",
+      "zh_TW": "藍色木板斜坡",
+      "ja_JP": "あおいいたのスロープ",
+      "ko_KR": "파란 널빤지 슬로프"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1667,7 +1817,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeBrickStair",
-    "uniqueEntryId": "A8AfTzxqpvzfcMeC5"
+    "uniqueEntryId": "A8AfTzxqpvzfcMeC5",
+    "localization": {
+      "en_US": "brick staircase",
+      "en_GB": "brick staircase",
+      "de_DE": "Backsteintreppe",
+      "es_ES": "escalera de ladrillos",
+      "es_US": "escalera de ladrillos",
+      "fr_FR": "escalier en brique",
+      "fr_CA": "escalier en brique",
+      "it_IT": "scala di mattoni",
+      "nl_NL": "bakstenen trap",
+      "zh_CN": "砖台阶",
+      "zh_TW": "磚塊樓梯",
+      "ja_JP": "レンガのかいだん",
+      "ko_KR": "벽돌 계단"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1677,7 +1842,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWoodStair",
-    "uniqueEntryId": "wk6oQREwMmRAmkTWJ"
+    "uniqueEntryId": "wk6oQREwMmRAmkTWJ",
+    "localization": {
+      "en_US": "log staircase",
+      "en_GB": "log staircase",
+      "de_DE": "Baumstammtreppe",
+      "es_ES": "escalera de troncos",
+      "es_US": "escalera de troncos",
+      "fr_FR": "escalier en rondins",
+      "fr_CA": "escalier en rondins",
+      "it_IT": "scala di tronchi",
+      "nl_NL": "boomstammentrap",
+      "zh_CN": "圆木台阶",
+      "zh_TW": "圓木樓梯",
+      "ja_JP": "まるたのかいだん",
+      "ko_KR": "통나무 계단"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1687,7 +1867,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeNatural",
-    "uniqueEntryId": "m7jAPxsGCRgSWo6Ng"
+    "uniqueEntryId": "m7jAPxsGCRgSWo6Ng",
+    "localization": {
+      "en_US": "natural ramp",
+      "en_GB": "natural ramp",
+      "de_DE": "Hangpfad",
+      "es_ES": "rampa natural",
+      "es_US": "rampa natural",
+      "fr_FR": "pente naturelle",
+      "fr_CA": "pente naturelle",
+      "it_IT": "rampa naturale",
+      "nl_NL": "natuurlijke helling",
+      "zh_CN": "天然斜坡",
+      "zh_TW": "自然風斜坡",
+      "ja_JP": "ナチュラルなスロープ",
+      "ko_KR": "내추럴 슬로프"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1697,7 +1892,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeIronStair",
-    "uniqueEntryId": "2nygbmutbmBfuzEXp"
+    "uniqueEntryId": "2nygbmutbmBfuzEXp",
+    "localization": {
+      "en_US": "red steel staircase",
+      "en_GB": "red steel staircase",
+      "de_DE": "Rot-Stahltreppe",
+      "es_ES": "escalera de acero rojo",
+      "es_US": "escalera de acero rojo",
+      "fr_FR": "escalier en acier rouge",
+      "fr_CA": "escalier en acier rouge",
+      "it_IT": "scala di acciaio rosso",
+      "nl_NL": "rode stalen trap",
+      "zh_CN": "红色钢筋台阶",
+      "zh_TW": "紅色鋼筋樓梯",
+      "ja_JP": "あかいてっこつかいだん",
+      "ko_KR": "빨간 철골 계단"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1707,7 +1917,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeStoneStair",
-    "uniqueEntryId": "4zszj8KsBNe2XgeGq"
+    "uniqueEntryId": "4zszj8KsBNe2XgeGq",
+    "localization": {
+      "en_US": "stone staircase",
+      "en_GB": "stone staircase",
+      "de_DE": "Steintreppe",
+      "es_ES": "escalera de piedra",
+      "es_US": "escalera de piedra",
+      "fr_FR": "escalier en pierre",
+      "fr_CA": "escalier en pierre",
+      "it_IT": "scala di pietra",
+      "nl_NL": "stenen trap",
+      "zh_CN": "石台阶",
+      "zh_TW": "石樓梯",
+      "ja_JP": "いしのかいだん",
+      "ko_KR": "돌 계단"
+    }
   },
   {
     "sourceSheet": "Construction",
@@ -1717,7 +1942,22 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWood",
-    "uniqueEntryId": "aR8pTDNtanxDQt7MY"
+    "uniqueEntryId": "aR8pTDNtanxDQt7MY",
+    "localization": {
+      "en_US": "white-plank ramp",
+      "en_GB": "white-plank ramp",
+      "de_DE": "Weiß-Bretterrampe",
+      "es_ES": "rampa de tablas blancas",
+      "es_US": "rampa de tablas blancas",
+      "fr_FR": "pente planches blanches",
+      "fr_CA": "pente planches blanches",
+      "it_IT": "rampa di assi bianche",
+      "nl_NL": "witte houten helling",
+      "zh_CN": "白色木板斜坡",
+      "zh_TW": "白色木板斜坡",
+      "ja_JP": "しろいいたのスロープ",
+      "ko_KR": "하얀 널빤지 슬로프"
+    }
   },
   {
     "sourceSheet": "Construction",

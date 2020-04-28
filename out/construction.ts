@@ -7,6 +7,7 @@ export interface Construction {
   source: Source[];
   filename: string;
   uniqueEntryId: string;
+  localization?: Localization;
 }
 
 export enum Category {
@@ -16,6 +17,22 @@ export enum Category {
   Mailbox = 'Mailbox',
   Roofing = 'Roofing',
   Siding = 'Siding',
+}
+
+export interface Localization {
+  en_US: string;
+  en_GB: string;
+  de_DE: string;
+  es_ES: string;
+  es_US: string;
+  fr_FR: string;
+  fr_CA: string;
+  it_IT: string;
+  nl_NL: string;
+  zh_CN: string;
+  zh_TW: string;
+  ja_JP: string;
+  ko_KR: string;
 }
 
 export enum Source {

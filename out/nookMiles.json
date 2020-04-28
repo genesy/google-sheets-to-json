@@ -19,7 +19,22 @@
     "category": "Recipe",
     "filename": "ItemFenceBamboo",
     "internalId": 3403,
-    "uniqueEntryId": "YQ5EFW6BYF66LfKMC"
+    "uniqueEntryId": "YQ5EFW6BYF66LfKMC",
+    "localization": {
+      "en_US": "bamboo lattice fence",
+      "en_GB": "bamboo lattice fence",
+      "de_DE": "Bambuszaun",
+      "es_ES": "valla celosía de bambú",
+      "es_US": "valla celosía de bambú",
+      "fr_FR": "clôture bambou à treillis",
+      "fr_CA": "clôture bambou à treillis",
+      "it_IT": "recinzione di bambù",
+      "nl_NL": "bamboeschutting",
+      "zh_CN": "竹栅栏",
+      "zh_TW": "竹柵欄",
+      "ja_JP": "たけがき",
+      "ko_KR": "대나무 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -30,7 +45,22 @@
     "category": "Recipe",
     "filename": "ItemFenceBarbedWire",
     "internalId": 5213,
-    "uniqueEntryId": "BirCKAEpmJBqhxZgq"
+    "uniqueEntryId": "BirCKAEpmJBqhxZgq",
+    "localization": {
+      "en_US": "barbed-wire fence",
+      "en_GB": "barbed-wire fence",
+      "de_DE": "Stacheldrahtzaun",
+      "es_ES": "valla de alambre",
+      "es_US": "valla de alambre",
+      "fr_FR": "clôture de barbelés",
+      "fr_CA": "clôture de barbelés",
+      "it_IT": "filo spinato",
+      "nl_NL": "prikkeldraadhek",
+      "zh_CN": "有刺铁丝网",
+      "zh_TW": "有刺鐵絲網",
+      "ja_JP": "ゆうしてっせん",
+      "ko_KR": "가시철조망 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -52,7 +82,22 @@
     "category": "Recipe",
     "filename": "ItemFenceWallRenga",
     "internalId": 3080,
-    "uniqueEntryId": "oKGXfqYgasPFht8ed"
+    "uniqueEntryId": "oKGXfqYgasPFht8ed",
+    "localization": {
+      "en_US": "brick fence",
+      "en_GB": "brick fence",
+      "de_DE": "Ziegelsteinmauer",
+      "es_ES": "cerca de ladrillo",
+      "es_US": "cerca de ladrillo",
+      "fr_FR": "muret en briques",
+      "fr_CA": "muret en briques",
+      "it_IT": "muretto di mattoni",
+      "nl_NL": "bakstenen muurtje",
+      "zh_CN": "砖块栅栏",
+      "zh_TW": "磚塊柵欄",
+      "ja_JP": "レンガのカベ",
+      "ko_KR": "벽돌 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -74,7 +119,22 @@
     "category": null,
     "filename": "FtrCliffMaker",
     "internalId": 2543,
-    "uniqueEntryId": "WQsguRuMd9bwEFu5j"
+    "uniqueEntryId": "WQsguRuMd9bwEFu5j",
+    "localization": {
+      "en_US": "cliff construction permit",
+      "en_GB": "cliff construction permit",
+      "de_DE": "Plateaulizenz",
+      "es_ES": "permiso de elevaciones",
+      "es_US": "permiso de desniveles",
+      "fr_FR": "permis falaise",
+      "fr_CA": "permis falaise",
+      "it_IT": "licenza rilievi",
+      "nl_NL": "klifvergunning",
+      "zh_CN": "悬崖施工许可证",
+      "zh_TW": "懸崖施工許可證",
+      "ja_JP": "がけこうじライセンス",
+      "ko_KR": "절벽 공사 허가증"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -85,7 +145,22 @@
     "category": "Recipe",
     "filename": "ItemFenceHorizontalWood",
     "internalId": 4349,
-    "uniqueEntryId": "uNpebPXvCp7uu7xyY"
+    "uniqueEntryId": "uNpebPXvCp7uu7xyY",
+    "localization": {
+      "en_US": "corral fence",
+      "en_GB": "corral fence",
+      "de_DE": "Weidezaun",
+      "es_ES": "valla de corral",
+      "es_US": "valla de corral",
+      "fr_FR": "clôture de ferme",
+      "fr_CA": "clôture de ferme",
+      "it_IT": "staccionata ranch",
+      "nl_NL": "boerderijhek",
+      "zh_CN": "横条木板栅栏",
+      "zh_TW": "橫條木板柵欄",
+      "ja_JP": "よこいたのさく",
+      "ko_KR": "가로 널빤지 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -96,7 +171,22 @@
     "category": "Recipe",
     "filename": "ItemFenceLog",
     "internalId": 4350,
-    "uniqueEntryId": "vAehviy9MpyzoD6rp"
+    "uniqueEntryId": "vAehviy9MpyzoD6rp",
+    "localization": {
+      "en_US": "country fence",
+      "en_GB": "country fence",
+      "de_DE": "Baumstammzaun",
+      "es_ES": "valla leños",
+      "es_US": "valla rural",
+      "fr_FR": "clôture de rondins",
+      "fr_CA": "clôture de rondins",
+      "it_IT": "staccionata di ceppi",
+      "nl_NL": "paalhekje",
+      "zh_CN": "圆木栅栏",
+      "zh_TW": "圓木柵欄",
+      "ja_JP": "まるたのさく",
+      "ko_KR": "통나무 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -151,7 +241,22 @@
     "category": "Recipe",
     "filename": "ItemFenceChinese",
     "internalId": 4354,
-    "uniqueEntryId": "sSb6TbTHJcNt38vbX"
+    "uniqueEntryId": "sSb6TbTHJcNt38vbX",
+    "localization": {
+      "en_US": "imperial fence",
+      "en_GB": "imperial fence",
+      "de_DE": "Asienzauns",
+      "es_ES": "valla dinastía",
+      "es_US": "valla dinastía",
+      "fr_FR": "clôture dynastie orientale",
+      "fr_CA": "clôture dynastie",
+      "it_IT": "recinzione dinastia",
+      "nl_NL": "keizerlijke hek",
+      "zh_CN": "东方风栅栏",
+      "zh_TW": "東方風柵欄",
+      "ja_JP": "オリエンタルなさく",
+      "ko_KR": "오리엔탈 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -162,7 +267,22 @@
     "category": "Recipe",
     "filename": "ItemFenceSteel",
     "internalId": 4357,
-    "uniqueEntryId": "XodAhkyXAzESEbQDX"
+    "uniqueEntryId": "XodAhkyXAzESEbQDX",
+    "localization": {
+      "en_US": "iron fence",
+      "en_GB": "iron fence",
+      "de_DE": "Eisenzaun",
+      "es_ES": "verja de hierro",
+      "es_US": "valla de hierro",
+      "fr_FR": "clôture en fer",
+      "fr_CA": "clôture en fer",
+      "it_IT": "recinzione di ferro",
+      "nl_NL": "ijzeren hek",
+      "zh_CN": "铁栅栏",
+      "zh_TW": "鐵柵欄",
+      "ja_JP": "てつのさく",
+      "ko_KR": "철제 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -173,7 +293,22 @@
     "category": "Recipe",
     "filename": "ItemFenceIronAndStone",
     "internalId": 5206,
-    "uniqueEntryId": "MCyiw2GcaPisd5KWF"
+    "uniqueEntryId": "MCyiw2GcaPisd5KWF",
+    "localization": {
+      "en_US": "iron-and-stone fence",
+      "en_GB": "iron-and-stone fence",
+      "de_DE": "Villenzaun",
+      "es_ES": "verja de hierro y piedra",
+      "es_US": "valla de hierro y piedra",
+      "fr_FR": "clôture manoir",
+      "fr_CA": "clôture manoir",
+      "it_IT": "muretto con ringhiera",
+      "nl_NL": "hek met pijlers",
+      "zh_CN": "石砌铁艺栅栏",
+      "zh_TW": "西洋風柵欄",
+      "ja_JP": "ようふうのさく",
+      "ko_KR": "아이언 스톤 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -184,7 +319,22 @@
     "category": "Recipe",
     "filename": "ItemFenceLatiiceNatural",
     "internalId": 11712,
-    "uniqueEntryId": "9WHy9GrEzmoM7isqo"
+    "uniqueEntryId": "9WHy9GrEzmoM7isqo",
+    "localization": {
+      "en_US": "lattice fence",
+      "en_GB": "lattice fence",
+      "de_DE": "Gitterzaun",
+      "es_ES": "valla celosía",
+      "es_US": "valla celosía",
+      "fr_FR": "clôture en treillis standard",
+      "fr_CA": "clôture en treillis standard",
+      "it_IT": "recinzione graticcio",
+      "nl_NL": "rasterhek",
+      "zh_CN": "交叉格栅",
+      "zh_TW": "交叉格柵",
+      "ja_JP": "ラティス",
+      "ko_KR": "격자 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -228,7 +378,22 @@
     "category": "Recipe",
     "filename": "ItemFencePegRope",
     "internalId": 4352,
-    "uniqueEntryId": "fhYtbG4cP7tmQ755L"
+    "uniqueEntryId": "fhYtbG4cP7tmQ755L",
+    "localization": {
+      "en_US": "rope fence",
+      "en_GB": "rope fence",
+      "de_DE": "Seilzauns",
+      "es_ES": "valla cordón",
+      "es_US": "valla de soga",
+      "fr_FR": "clôture de corde",
+      "fr_CA": "clôture de corde",
+      "it_IT": "recinzione di corda",
+      "nl_NL": "touwhek",
+      "zh_CN": "钉子与绳索",
+      "zh_TW": "釘子與繩索",
+      "ja_JP": "ペグとロープ",
+      "ko_KR": "페그 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -250,7 +415,22 @@
     "category": "Recipe",
     "filename": "ItemFenceNatural",
     "internalId": 11711,
-    "uniqueEntryId": "mjyy9pa6Sc44yCWti"
+    "uniqueEntryId": "mjyy9pa6Sc44yCWti",
+    "localization": {
+      "en_US": "simple wooden fence",
+      "en_GB": "simple wooden fence",
+      "de_DE": "Standard-Holzzaun",
+      "es_ES": "valla de madera",
+      "es_US": "valla de madera",
+      "fr_FR": "clôture en bois standard",
+      "fr_CA": "clôture en bois standard",
+      "it_IT": "recinzione di legno grezzo",
+      "nl_NL": "houten hekje",
+      "zh_CN": "朴素木制栅栏",
+      "zh_TW": "樸素木製柵欄",
+      "ja_JP": "そぼくなもくせいのさく",
+      "ko_KR": "소박한 목제 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -261,7 +441,22 @@
     "category": "Recipe",
     "filename": "ItemFenceSharply",
     "internalId": 4358,
-    "uniqueEntryId": "B7mJhdFbdKyqDQktX"
+    "uniqueEntryId": "B7mJhdFbdKyqDQktX",
+    "localization": {
+      "en_US": "spiky fence",
+      "en_GB": "spiky fence",
+      "de_DE": "Spitzpfostenzaun",
+      "es_ES": "valla puntiaguda",
+      "es_US": "valla puntiaguda",
+      "fr_FR": "clôture épieux",
+      "fr_CA": "clôture épieux",
+      "it_IT": "recinzione appuntita",
+      "nl_NL": "puntige hek",
+      "zh_CN": "尖刺栅栏",
+      "zh_TW": "尖刺柵欄",
+      "ja_JP": "トゲトゲのさく",
+      "ko_KR": "뾰족뾰족 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -272,7 +467,22 @@
     "category": "Recipe",
     "filename": "ItemFenceStone",
     "internalId": 5212,
-    "uniqueEntryId": "74RtLJcCpBD6DS68S"
+    "uniqueEntryId": "74RtLJcCpBD6DS68S",
+    "localization": {
+      "en_US": "stone fence",
+      "en_GB": "stone fence",
+      "de_DE": "Feldsteinmauer",
+      "es_ES": "cerca de piedra",
+      "es_US": "cerca de piedra",
+      "fr_FR": "muret en pierre sèche",
+      "fr_CA": "muret en pierre sèche",
+      "it_IT": "muretto di pietra",
+      "nl_NL": "stenen muurtje",
+      "zh_CN": "石栅栏",
+      "zh_TW": "石柵欄",
+      "ja_JP": "いしかべ",
+      "ko_KR": "돌 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -294,7 +504,22 @@
     "category": "Recipe",
     "filename": "ItemFenceDriedStraw",
     "internalId": 4356,
-    "uniqueEntryId": "Nvncw2RxhLNiWDWZR"
+    "uniqueEntryId": "Nvncw2RxhLNiWDWZR",
+    "localization": {
+      "en_US": "straw fence",
+      "en_GB": "straw fence",
+      "de_DE": "Strohzaun",
+      "es_ES": "valla de paja",
+      "es_US": "valla de paja",
+      "fr_FR": "clôture de paille",
+      "fr_CA": "clôture de paille",
+      "it_IT": "recinzione di paglia",
+      "nl_NL": "strohek",
+      "zh_CN": "干稻草栅栏",
+      "zh_TW": "乾稻草柵欄",
+      "ja_JP": "わらぼしのさく",
+      "ko_KR": "짚단 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -371,7 +596,22 @@
     "category": "Recipe",
     "filename": "ItemFenceVerticalWood",
     "internalId": 3402,
-    "uniqueEntryId": "wEJECML4CyAgG6Gaw"
+    "uniqueEntryId": "wEJECML4CyAgG6Gaw",
+    "localization": {
+      "en_US": "vertical-board fence",
+      "en_GB": "vertical-board fence",
+      "de_DE": "Bretterzaun",
+      "es_ES": "valla de tablones",
+      "es_US": "valla de tablas",
+      "fr_FR": "clôture lattes verticales",
+      "fr_CA": "clôture lattes verticales",
+      "it_IT": "recinzione di assi verticali",
+      "nl_NL": "lichte schutting",
+      "zh_CN": "直条木板栅栏",
+      "zh_TW": "直條木板柵欄",
+      "ja_JP": "たていたのさく",
+      "ko_KR": "세로 널빤지 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -382,7 +622,22 @@
     "category": null,
     "filename": "FtrRiverMaker",
     "internalId": 3247,
-    "uniqueEntryId": "y27SvjCmimgePaN7y"
+    "uniqueEntryId": "y27SvjCmimgePaN7y",
+    "localization": {
+      "en_US": "waterscaping permit",
+      "en_GB": "waterscaping permit",
+      "de_DE": "Gewässerlizenz",
+      "es_ES": "permiso de obras fluviales",
+      "es_US": "permiso de obras fluviales",
+      "fr_FR": "permis cours d'eau",
+      "fr_CA": "permis cours d'eau",
+      "it_IT": "licenza fiumi e laghi",
+      "nl_NL": "watervergunning",
+      "zh_CN": "河流施工许可证",
+      "zh_TW": "河川施工許可證",
+      "ja_JP": "かせんこうじライセンス",
+      "ko_KR": "하천 공사 허가증"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -404,7 +659,22 @@
     "category": "Recipe",
     "filename": "ItemFenceJapanese",
     "internalId": 5207,
-    "uniqueEntryId": "iLiRAgMYaFu9zxDZC"
+    "uniqueEntryId": "iLiRAgMYaFu9zxDZC",
+    "localization": {
+      "en_US": "zen fence",
+      "en_GB": "zen fence",
+      "de_DE": "Japanmauer",
+      "es_ES": "cerca oriental",
+      "es_US": "cerca oriental",
+      "fr_FR": "muret zen",
+      "fr_CA": "muret zen",
+      "it_IT": "muretto giapponese",
+      "nl_NL": "zenmuurtje",
+      "zh_CN": "和风栅栏",
+      "zh_TW": "和風柵欄",
+      "ja_JP": "わふうのさく",
+      "ko_KR": "동양풍 울타리"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -426,7 +696,22 @@
     "category": "Housewares",
     "filename": "FtrSignConstruction",
     "internalId": 9568,
-    "uniqueEntryId": "4f8gnhyphbve4L3ux"
+    "uniqueEntryId": "4f8gnhyphbve4L3ux",
+    "localization": {
+      "en_US": "construction sign",
+      "en_GB": "construction sign",
+      "de_DE": "Baustellenschild",
+      "es_ES": "señal de obras",
+      "es_US": "señal de obras",
+      "fr_FR": "panneau de travaux",
+      "fr_CA": "panneau de travaux",
+      "it_IT": "cartello dei lavori in corso",
+      "nl_NL": "werkzaamhedenbord",
+      "zh_CN": "施工告示牌",
+      "zh_TW": "施工告示牌",
+      "ja_JP": "こうじちゅうかんばん",
+      "ko_KR": "공사 간판"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -437,7 +722,22 @@
     "category": "Housewares",
     "filename": "FtrCottoncandymachine",
     "internalId": 4412,
-    "uniqueEntryId": "yM78zECjKEEjtJvL6"
+    "uniqueEntryId": "yM78zECjKEEjtJvL6",
+    "localization": {
+      "en_US": "cotton-candy stall",
+      "en_GB": "cotton-candy stall",
+      "de_DE": "Zuckerwattestand",
+      "es_ES": "puesto algodón de azúcar",
+      "es_US": "puesto algodón de azúcar",
+      "fr_FR": "stand de barbe à papa",
+      "fr_CA": "stand de barbe à papa",
+      "it_IT": "carretto zucchero filato",
+      "nl_NL": "suikerspinkraampje",
+      "zh_CN": "棉花糖小吃摊",
+      "zh_TW": "棉花糖小吃攤",
+      "ja_JP": "わたあめのやたい",
+      "ko_KR": "솜사탕 노점"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -448,7 +748,22 @@
     "category": "Housewares",
     "filename": "FtrDrinkmachine",
     "internalId": 1802,
-    "uniqueEntryId": "coMRqBPpsMsBsN9FY"
+    "uniqueEntryId": "coMRqBPpsMsBsN9FY",
+    "localization": {
+      "en_US": "drink machine",
+      "en_GB": "drink machine",
+      "de_DE": "Getränkeautomat",
+      "es_ES": "máquina de refrescos",
+      "es_US": "máquina de refrescos",
+      "fr_FR": "distributeur de boissons",
+      "fr_CA": "distributeur de boissons",
+      "it_IT": "distributore di bevande",
+      "nl_NL": "blikjesautomaat",
+      "zh_CN": "自动贩卖机",
+      "zh_TW": "自動販賣機",
+      "ja_JP": "じはんき",
+      "ko_KR": "음료수 자동판매기"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -459,7 +774,22 @@
     "category": "Housewares",
     "filename": "FtrMonitoringchair",
     "internalId": 3345,
-    "uniqueEntryId": "8hJyoYCw4Fh3Di8KL"
+    "uniqueEntryId": "8hJyoYCw4Fh3Di8KL",
+    "localization": {
+      "en_US": "lifeguard chair",
+      "en_GB": "lifeguard chair",
+      "de_DE": "Bademeisterstuhl",
+      "es_ES": "silla de socorrista",
+      "es_US": "silla de socorrista",
+      "fr_FR": "siège de maître-nageur",
+      "fr_CA": "siège de maître-nageur",
+      "it_IT": "sedia da bagnino",
+      "nl_NL": "strandwachtstoel",
+      "zh_CN": "沙滩瞭望台",
+      "zh_TW": "沙灘瞭望台",
+      "ja_JP": "ビーチのかんしだい",
+      "ko_KR": "안전 감시대"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -470,7 +800,22 @@
     "category": "Housewares",
     "filename": "FtrLighthouse",
     "internalId": 2335,
-    "uniqueEntryId": "PkQ8LQ7NhSFwYAjEk"
+    "uniqueEntryId": "PkQ8LQ7NhSFwYAjEk",
+    "localization": {
+      "en_US": "lighthouse",
+      "en_GB": "lighthouse",
+      "de_DE": "Leuchtturm",
+      "es_ES": "faro",
+      "es_US": "faro",
+      "fr_FR": "phare",
+      "fr_CA": "phare",
+      "it_IT": "faro",
+      "nl_NL": "vuurtoren",
+      "zh_CN": "灯塔",
+      "zh_TW": "燈塔",
+      "ja_JP": "とうだい",
+      "ko_KR": "등대"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -481,7 +826,22 @@
     "category": "Housewares",
     "filename": "FtrMonster",
     "internalId": 4722,
-    "uniqueEntryId": "grM8mpisRTLFv2FT8"
+    "uniqueEntryId": "grM8mpisRTLFv2FT8",
+    "localization": {
+      "en_US": "monster statue",
+      "en_GB": "monster statue",
+      "de_DE": "Monsterfigur",
+      "es_ES": "estatua de monstruo",
+      "es_US": "estatua de monstruo",
+      "fr_FR": "figurine de monstre géant",
+      "fr_CA": "figurine de monstre géant",
+      "it_IT": "statua di mostro",
+      "nl_NL": "monsterstandbeeld",
+      "zh_CN": "怪兽",
+      "zh_TW": "怪獸",
+      "ja_JP": "かいじゅう",
+      "ko_KR": "괴수"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -492,7 +852,22 @@
     "category": "Housewares",
     "filename": "FtrParabolicantenna",
     "internalId": 2352,
-    "uniqueEntryId": "AFjhqSdLRmHb4BNGS"
+    "uniqueEntryId": "AFjhqSdLRmHb4BNGS",
+    "localization": {
+      "en_US": "parabolic antenna",
+      "en_GB": "parabolic antenna",
+      "de_DE": "Satellitenschüssel",
+      "es_ES": "antena parabólica",
+      "es_US": "antena parabólica",
+      "fr_FR": "parabole",
+      "fr_CA": "antenne parabolique",
+      "it_IT": "antenna parabolica",
+      "nl_NL": "schotelantenne",
+      "zh_CN": "圆盘天线",
+      "zh_TW": "圓盤天線",
+      "ja_JP": "パラボラアンテナ",
+      "ko_KR": "위성 안테나"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -503,7 +878,22 @@
     "category": "Housewares",
     "filename": "FtrParkclock",
     "internalId": 3595,
-    "uniqueEntryId": "hPtCpFC9vAeiDCZ5K"
+    "uniqueEntryId": "hPtCpFC9vAeiDCZ5K",
+    "localization": {
+      "en_US": "park clock",
+      "en_GB": "park clock",
+      "de_DE": "Parkstanduhr",
+      "es_ES": "reloj de poste",
+      "es_US": "reloj de pie",
+      "fr_FR": "horloge publique",
+      "fr_CA": "horloge publique",
+      "it_IT": "orologio da esterni",
+      "nl_NL": "parkklok",
+      "zh_CN": "公园时钟",
+      "zh_TW": "公園時鐘",
+      "ja_JP": "こうえんのとけい",
+      "ko_KR": "공원 시계"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -514,7 +904,22 @@
     "category": "Housewares",
     "filename": "FtrTelephonebox",
     "internalId": 1185,
-    "uniqueEntryId": "vSKApXDweXqqCRYov"
+    "uniqueEntryId": "vSKApXDweXqqCRYov",
+    "localization": {
+      "en_US": "phone box",
+      "en_GB": "phone box",
+      "de_DE": "Telefonzelle",
+      "es_ES": "cabina telefónica",
+      "es_US": "cabina telefónica",
+      "fr_FR": "cabine téléphonique",
+      "fr_CA": "cabine téléphonique",
+      "it_IT": "cabina del telefono",
+      "nl_NL": "telefooncel",
+      "zh_CN": "电话亭",
+      "zh_TW": "電話亭",
+      "ja_JP": "でんわボックス",
+      "ko_KR": "공중전화 부스"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -525,7 +930,22 @@
     "category": "Housewares",
     "filename": "FtrJunglegym",
     "internalId": 3430,
-    "uniqueEntryId": "PD4JXZkMwb9Q6GbQk"
+    "uniqueEntryId": "PD4JXZkMwb9Q6GbQk",
+    "localization": {
+      "en_US": "playground gym",
+      "en_GB": "playground gym",
+      "de_DE": "Spielplatzgerüst",
+      "es_ES": "estructura para escalar",
+      "es_US": "juego para trepar",
+      "fr_FR": "cage à poules",
+      "fr_CA": "cage à poules",
+      "it_IT": "gabbia per arrampicarsi",
+      "nl_NL": "klimtoestel",
+      "zh_CN": "公园攀爬架",
+      "zh_TW": "公園攀爬架",
+      "ja_JP": "ジャングルジム",
+      "ko_KR": "정글짐"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -536,7 +956,22 @@
     "category": "Housewares",
     "filename": "FtrPool",
     "internalId": 3596,
-    "uniqueEntryId": "GHBwxWkjYCP2N5eTD"
+    "uniqueEntryId": "GHBwxWkjYCP2N5eTD",
+    "localization": {
+      "en_US": "pool",
+      "en_GB": "pool",
+      "de_DE": "Schwimmbecken",
+      "es_ES": "piscina privada",
+      "es_US": "piscina privada",
+      "fr_FR": "piscine",
+      "fr_CA": "piscine",
+      "it_IT": "piscina",
+      "nl_NL": "zwembad",
+      "zh_CN": "游泳池",
+      "zh_TW": "游泳池",
+      "ja_JP": "プール",
+      "ko_KR": "풀"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -547,7 +982,22 @@
     "category": "Housewares",
     "filename": "FtrWCPortable",
     "internalId": 1234,
-    "uniqueEntryId": "B8BXPicd52MetqH4c"
+    "uniqueEntryId": "B8BXPicd52MetqH4c",
+    "localization": {
+      "en_US": "portable toilet",
+      "en_GB": "portable toilet",
+      "de_DE": "Toilettenhäuschen",
+      "es_ES": "retrete portátil",
+      "es_US": "baño portátil",
+      "fr_FR": "cabine de WC mobile",
+      "fr_CA": "toilette portable",
+      "it_IT": "bagno chimico",
+      "nl_NL": "mobiele toiletcabine",
+      "zh_CN": "流动厕所",
+      "zh_TW": "流動廁所",
+      "ja_JP": "かせつトイレ",
+      "ko_KR": "이동식 화장실"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -558,7 +1008,22 @@
     "category": "Housewares",
     "filename": "FtrPublicbench",
     "internalId": 3346,
-    "uniqueEntryId": "sEhPTMCECw4EpAv36"
+    "uniqueEntryId": "sEhPTMCECw4EpAv36",
+    "localization": {
+      "en_US": "public bench",
+      "en_GB": "public bench",
+      "de_DE": "Sitzgelegenheit",
+      "es_ES": "asiento de edificio público",
+      "es_US": "asiento de edificio público",
+      "fr_FR": "paire de chaises sur poutre",
+      "fr_CA": "paire de chaises sur poutre",
+      "it_IT": "coppia di sedie sala attesa",
+      "nl_NL": "openbare zitgelegenheid",
+      "zh_CN": "公共长椅",
+      "zh_TW": "公共長椅",
+      "ja_JP": "パブリックベンチ",
+      "ko_KR": "공공 벤치"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -569,7 +1034,22 @@
     "category": "Housewares",
     "filename": "FtrFoodmachine",
     "internalId": 971,
-    "uniqueEntryId": "3ToyAxgQewfYpswT2"
+    "uniqueEntryId": "3ToyAxgQewfYpswT2",
+    "localization": {
+      "en_US": "snack machine",
+      "en_GB": "snack machine",
+      "de_DE": "Verkaufsautomat",
+      "es_ES": "máquina expendedora",
+      "es_US": "máquina expendedora",
+      "fr_FR": "distributeur en-cas",
+      "fr_CA": "distributeur en-cas",
+      "it_IT": "distributore automatico",
+      "nl_NL": "snackautomaat",
+      "zh_CN": "甜点自动贩卖机",
+      "zh_TW": "甜點自動販賣機",
+      "ja_JP": "おかしのじはんき",
+      "ko_KR": "과자 자동판매기"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -580,7 +1060,22 @@
     "category": "Housewares",
     "filename": "FtrSoccergoal",
     "internalId": 1149,
-    "uniqueEntryId": "WnCmfZrpoRqi6GTx6"
+    "uniqueEntryId": "WnCmfZrpoRqi6GTx6",
+    "localization": {
+      "en_US": "soccer goal",
+      "en_GB": "soccer goal",
+      "de_DE": "Fußballtor",
+      "es_ES": "portería",
+      "es_US": "portería",
+      "fr_FR": "but de football",
+      "fr_CA": "but de soccer",
+      "it_IT": "porta da calcio",
+      "nl_NL": "voetbaldoel",
+      "zh_CN": "足球球门",
+      "zh_TW": "足球球門",
+      "ja_JP": "サッカーゴール",
+      "ko_KR": "축구 골대"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -591,7 +1086,22 @@
     "category": "Housewares",
     "filename": "FtrSolarpanel",
     "internalId": 2333,
-    "uniqueEntryId": "AF4mTWuMSjhGE9uBB"
+    "uniqueEntryId": "AF4mTWuMSjhGE9uBB",
+    "localization": {
+      "en_US": "solar panel",
+      "en_GB": "solar panel",
+      "de_DE": "Solaranlage",
+      "es_ES": "placa solar",
+      "es_US": "placa solar",
+      "fr_FR": "panneau solaire",
+      "fr_CA": "panneau solaire",
+      "it_IT": "pannello solare",
+      "nl_NL": "zonnepaneel",
+      "zh_CN": "太阳能板",
+      "zh_TW": "太陽能板",
+      "ja_JP": "ソーラーパネル",
+      "ko_KR": "태양열 패널"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -602,7 +1112,22 @@
     "category": "Housewares",
     "filename": "FtrSpringrider",
     "internalId": 4379,
-    "uniqueEntryId": "7LDzE59fnFKeryMAp"
+    "uniqueEntryId": "7LDzE59fnFKeryMAp",
+    "localization": {
+      "en_US": "springy ride-on",
+      "en_GB": "springy ride-on",
+      "de_DE": "Federwippe",
+      "es_ES": "balancín de muelle",
+      "es_US": "balancín de resorte",
+      "fr_FR": "animal sur ressort",
+      "fr_CA": "animal sur ressort",
+      "it_IT": "cavallo a molla",
+      "nl_NL": "veertoestel",
+      "zh_CN": "弹簧游乐器材",
+      "zh_TW": "彈簧遊樂器材",
+      "ja_JP": "スプリングゆうぐ",
+      "ko_KR": "스프링 놀이 기구"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -613,7 +1138,22 @@
     "category": "Housewares",
     "filename": "FtrStreetlamp",
     "internalId": 3816,
-    "uniqueEntryId": "eFEMuxQRSXdBYpBgZ"
+    "uniqueEntryId": "eFEMuxQRSXdBYpBgZ",
+    "localization": {
+      "en_US": "streetlamp",
+      "en_GB": "streetlamp",
+      "de_DE": "Straßenlampe",
+      "es_ES": "farola",
+      "es_US": "farola",
+      "fr_FR": "réverbère",
+      "fr_CA": "réverbère",
+      "it_IT": "lampione",
+      "nl_NL": "straatlantaarn",
+      "zh_CN": "路灯",
+      "zh_TW": "路燈",
+      "ja_JP": "がいとう",
+      "ko_KR": "가로등"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -624,7 +1164,22 @@
     "category": "Housewares",
     "filename": "FtrTurncup",
     "internalId": 1507,
-    "uniqueEntryId": "m3cKFNZXwuLDSdinJ"
+    "uniqueEntryId": "m3cKFNZXwuLDSdinJ",
+    "localization": {
+      "en_US": "teacup ride",
+      "en_GB": "teacup ride",
+      "de_DE": "Drehkaffeetasse",
+      "es_ES": "atracción tazas giratorias",
+      "es_US": "&#xE;2\\0&#x4;ࠂ촆tazas de té giratorias",
+      "fr_FR": "manège tasses à café",
+      "fr_CA": "manège tasses de thé",
+      "it_IT": "giostra tazze da caffè",
+      "nl_NL": "theekopcarrousel",
+      "zh_CN": "旋转咖啡杯",
+      "zh_TW": "旋轉咖啡杯",
+      "ja_JP": "まわるコーヒーカップ",
+      "ko_KR": "빙글빙글 커피 잔"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -635,7 +1190,22 @@
     "category": "Housewares",
     "filename": "FtrTelescopeSightseeing",
     "internalId": 3078,
-    "uniqueEntryId": "DfGGtm483WRwHXT2D"
+    "uniqueEntryId": "DfGGtm483WRwHXT2D",
+    "localization": {
+      "en_US": "tourist telescope",
+      "en_GB": "tourist telescope",
+      "de_DE": "Aussichtsfernrohr",
+      "es_ES": "binocular de mirador",
+      "es_US": "binocular de mirador",
+      "fr_FR": "télescope panoramique",
+      "fr_CA": "télescope panoramique",
+      "it_IT": "telescopio per turisti",
+      "nl_NL": "verrekijker",
+      "zh_CN": "观光望远镜",
+      "zh_TW": "觀光望遠鏡",
+      "ja_JP": "かんこうぼうえんきょう",
+      "ko_KR": "관광 망원경"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -646,7 +1216,22 @@
     "category": "Housewares",
     "filename": "FtrTelephonepole",
     "internalId": 9619,
-    "uniqueEntryId": "ttpspS7tAhyyYTvdT"
+    "uniqueEntryId": "ttpspS7tAhyyYTvdT",
+    "localization": {
+      "en_US": "utility pole",
+      "en_GB": "utility pole",
+      "de_DE": "Leitungsmast",
+      "es_ES": "poste eléctrico",
+      "es_US": "poste eléctrico",
+      "fr_FR": "poteau électrique",
+      "fr_CA": "poteau électrique",
+      "it_IT": "palo della corrente",
+      "nl_NL": "bovenleidingsmast",
+      "zh_CN": "电线杆",
+      "zh_TW": "電線桿",
+      "ja_JP": "でんちゅう",
+      "ko_KR": "전신주"
+    }
   },
   {
     "sourceSheet": "Nook Miles",
@@ -657,6 +1242,21 @@
     "category": "Housewares",
     "filename": "FtrWindturbine",
     "internalId": 7379,
-    "uniqueEntryId": "f2L2r7hZHMbfxWNdY"
+    "uniqueEntryId": "f2L2r7hZHMbfxWNdY",
+    "localization": {
+      "en_US": "wind turbine",
+      "en_GB": "wind turbine",
+      "de_DE": "Windrad",
+      "es_ES": "aerogenerador",
+      "es_US": "aerogenerador",
+      "fr_FR": "éolienne",
+      "fr_CA": "éolienne",
+      "it_IT": "turbina eolica",
+      "nl_NL": "windmolen",
+      "zh_CN": "风力发电机",
+      "zh_TW": "風力發電機",
+      "ja_JP": "ふうりょくはつでんき",
+      "ko_KR": "풍력 발전기"
+    }
   }
 ]

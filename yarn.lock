@@ -27,6 +27,11 @@
     brfs "^1.4.0"
     unicode-trie "^0.3.0"
 
+"@stun3r/acnh-translations@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@stun3r/acnh-translations/-/acnh-translations-0.2.4.tgz#7e91ef2b6bb7289912f998e25ee1f8e147e67e39"
+  integrity sha512-fmp/x662Y8eGKRfEj2U8BMq7SpjOTv3zBixhFHBdD3GUyJUSGTOkl8vuAbVjAhO0xdpRnIc+nzo3N0zv2EssdA==
+
 "@types/lodash@^4.14.150":
   version "4.14.150"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.150.tgz#649fe44684c3f1fcb6164d943c5a61977e8cf0bd"

@@ -21,6 +21,7 @@ export interface Creatures {
   specialSell: number;
   activeHours: Array<ActiveHour[]>;
   activeMonths: ActiveMonths;
+  localization: Localization;
   weather?: Weather;
   inventoryFilename?: null | string;
 }
@@ -68,6 +69,22 @@ export enum Color {
 export enum LightingType {
   Emission = 'Emission',
   Fluorescent = 'Fluorescent',
+}
+
+export interface Localization {
+  en_US: string;
+  en_GB: string;
+  de_DE: string;
+  es_ES: string;
+  es_US: string;
+  fr_FR: string;
+  fr_CA: string;
+  it_IT: string;
+  nl_NL: string;
+  zh_CN: string;
+  zh_TW: string;
+  ja_JP: string;
+  ko_KR: string;
 }
 
 export enum Rarity {

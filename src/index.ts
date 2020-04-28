@@ -3,6 +3,7 @@ import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
 import {camelCase, omit, pick, zipObject} from 'lodash';
 import {addMinutes, parse, format as dfFormat} from 'date-fns';
+import translations from '@stun3r/acnh-translations/all.json';
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
 
@@ -376,6 +377,12 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['color2'];
       delete item['style1'];
       delete item['style2'];
+    }
+
+    for (const translation of translations) {
+      if (item['name'] === translation['ref']) {
+        item['localization'] = translation['localization'];
+      }
     }
   }
 

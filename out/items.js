@@ -49,7 +49,9 @@ var CurtainType;
 })(CurtainType = exports.CurtainType || (exports.CurtainType = {}));
 var InteractEnum;
 (function (InteractEnum) {
+    InteractEnum["Trash"] = "Trash";
     InteractEnum["Wardrobe"] = "Wardrobe";
+    InteractEnum["Workbench"] = "Workbench";
 })(InteractEnum = exports.InteractEnum || (exports.InteractEnum = {}));
 var LightingType;
 (function (LightingType) {

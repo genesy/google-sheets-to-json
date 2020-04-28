@@ -15,6 +15,7 @@ export interface Item {
   set?: null | string;
   series?: null | string;
   customizationKitCost?: number | null;
+  localization?: Localization;
   variants?: Variant[];
   doorDeco?: boolean;
   vfx?: boolean | null;
@@ -177,7 +178,9 @@ export enum Hobby {
 }
 
 export enum InteractEnum {
+  Trash = 'Trash',
   Wardrobe = 'Wardrobe',
+  Workbench = 'Workbench',
 }
 
 export enum LightingType {
@@ -186,6 +189,23 @@ export enum LightingType {
   Fluorescent = 'Fluorescent',
   Monitor = 'Monitor',
   Spotlight = 'Spotlight',
+}
+
+export interface Localization {
+  en_US: string;
+  en_GB: string;
+  de_DE: string;
+  es_ES: string;
+  es_US: string;
+  fr_FR: string;
+  fr_CA: string;
+  it_IT: string;
+  nl_NL: string;
+  zh_CN: string;
+  zh_TW: string;
+  ja_JP: string;
+  ko_KR: string;
+  ru_RU?: string;
 }
 
 export enum PaneType {
